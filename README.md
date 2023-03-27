@@ -35,5 +35,7 @@ presentation [Price Forecast Model](https://www.canva.com/design/DAFcLA_uZsk/TM_
 ## Authors
 
  [Shaker Abu Rassa'](https://www.linkedin.com/in/shaker-abu-rassa)
+ 
  [Ahmad Almouse](https://www.linkedin.com/in/ahmadalmousa2000)
+ 
  [Maha Ismail](https://www.linkedin.com/in/maha-ismail-35a553213)
