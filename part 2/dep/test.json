@@ -1,0 +1,19 @@
+{
+    "category"      :  1 , 
+    "commodity"     :  1  ,
+    "month"         :  1  ,
+    "year"          :  2023  ,
+    "is_ramdan"     :  0  ,
+    "population"    :  11000000  ,
+    "middle_east"   :  300  ,
+    "world"         :  15000  ,
+    "jor_new_cases" :  0,
+    "jor_new_deaths":  0
+}
+{
+    "commodity"  : 1 , 
+    "month"      : 1 , 
+    "year"       : 2023  ,
+    "price_x"    : 0.33,
+    "market"     : 1 
+}
